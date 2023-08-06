@@ -76,7 +76,7 @@ For bonus there's an extra character - which makes you lose once touch it.
     
 | CHAR |	OBJECT   |
 | --------- | ---------- |
-| M         |   Vilain  |
+| M         |  Enemies  |
 
 
 The map must be rectangular and surrounded by walls '1'.
